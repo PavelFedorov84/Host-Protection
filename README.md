@@ -11,7 +11,7 @@
 
 ОТВЕТ:   
 
-https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S1.jpg)
+![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S1.jpg)`
 
 
 ---
