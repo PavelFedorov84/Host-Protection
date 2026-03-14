@@ -26,7 +26,9 @@
 ОТВЕТ:
 
 ![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S2.jpg)`
+
 ![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S3.jpg)`
+
 ---
 
 ### Задание 3
