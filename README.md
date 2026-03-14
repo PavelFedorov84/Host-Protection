@@ -25,9 +25,9 @@
 
 ОТВЕТ:
 
-![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S2.jpg)`
+![S2](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S2.jpg)`
 
-![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S3.jpg)`
+![S3](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S3.jpg)`
 
 ---
 
@@ -40,9 +40,9 @@
 
 ОТВЕТ:
 
-![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S7.jpg)`
+![S7](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S7.jpg)`
 
-![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S8.jpg)`
+![S8](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S8.jpg)`
 
-![S1](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S9.jpg)`
+![S9](https://github.com/PavelFedorov84/Host-Protection/blob/main/img/S9.jpg)`
 
